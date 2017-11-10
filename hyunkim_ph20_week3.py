@@ -6,6 +6,9 @@ Created on Fri Oct 27 21:35:35 2017
 @author: linus
 """
 
+#Here are the changes for ph20_week4_problem 1.4
+
+
 import math as m
 import numpy as np
 from matplotlib import pyplot as plt 
